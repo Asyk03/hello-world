@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Addition of new branch, testing how to use GitHub!
